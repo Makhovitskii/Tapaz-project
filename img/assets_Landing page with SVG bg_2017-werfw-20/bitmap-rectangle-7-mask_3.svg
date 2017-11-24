@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="80" viewBox="0 0 55 80">
+    <defs>
+        <radialGradient id="b" cx="0%" cy="3.177%" r="139.193%" fx="0%" fy="3.177%" gradientTransform="matrix(.57647 .55816 -.81712 .39377 .026 .02)">
+            <stop offset="0%" stop-color="#4FC3F7"/>
+            <stop offset="49.494%" stop-color="#AB5CA4"/>
+            <stop offset="100%" stop-color="#FF512F"/>
+        </radialGradient>
+        <path id="a" d="M.482 55.136L40.068 3.407c.728-.971 2.671-3.036 3.643-3.036 1.214 0 1.821 1.215 1.821 2.186v47.964h7.164c.729 0 1.7 2.429 1.7 4.979 0 1.093-.242 1.579-.485 1.943h-8.379v21.25s-.486.607-5.221.607c-2.915 0-4.372-.121-4.372-.971V57.443H1.696c-.85-.486-1.214-1.579-1.214-2.307zM8.74 50.52h27.2V14.943L8.74 50.52z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="c" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="url(#b)" fill-opacity=".82" xlink:href="#a"/>
+        <path fill="#FFF" d="M-2.143-7.143h73.571v97.857H-2.143z" mask="url(#c)" opacity=".4"/>
+    </g>
+</svg>
